@@ -9,7 +9,7 @@
 
 -  Contributor at GirlScript Summer Of Code, 2024 Extended!
 
-- 🌱 I am currently learning: ** **
+- 🌱 I am currently learning: **Web Dev & Data Analytics **
 
 - 💬 Ask me about: **Full Stack Development, Frontend Development, Backend Development**
 
