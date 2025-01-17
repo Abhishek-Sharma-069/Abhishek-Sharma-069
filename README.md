@@ -22,10 +22,10 @@
 const Juhi_Pathak= {
   pronouns: "She" | "Her",
   code: ["C++", "Python", "Java", "Javascript", "HTML", "CSS", "MySQL"],
-  askMeAbout: ["Web Dev", "Frontend Dev", "Python", "AIML", "GCP", "Figma", "Harry Potter", "Books"],
+  askMeAbout: ["Web Dev", "Frontend Dev","Backend Dev", "Python", "Java"],
   technologies: {
-      frontend: ["HTML", "CSS", "JS", "Bootstrap", "React"],
-      backend: ["Google Cloud", "AIML", "Databases"],
+      frontend: ["HTML", "CSS", "JS", "Tailwind CSS", "React"],
+      backend: ["Node.js", "Express.js", "Databases"],
   }
 }
 ```
