@@ -19,7 +19,7 @@
 ## <img src="https://cdn-icons-png.flaticon.com/512/5969/5969702.png" width="25">  <b>A little bit about myself :)</b>
 
 ```javascript
-const Juhi_Pathak= {
+const Abhishek_Sharma= {
   pronouns: "She" | "Her",
   code: ["C++", "Python", "Java", "Javascript", "HTML", "CSS", "MySQL"],
   askMeAbout: ["Web Dev", "Frontend Dev","Backend Dev", "Python", "Java"],
@@ -42,7 +42,7 @@ const Juhi_Pathak= {
 | :-: | :---: | :----: | :--: | :--: | :--: |
 | B.Tech CSE | <img src="https://github.com/" width="40" height="30"> | United Institute of Technology | AKTU | Nov 2022-Present | 8 CGPA |
 | Intermediate | <img src="https://github.com/" width="40" height="30"> | C.L. Inter College Chhittepatti Sultanpur | CBSE | 2020-2021 | 79.17 % |
-| HighSchool | <img src="https://github.com/JuhiPathak23/JuhiPathak23/assets/73741643/b2f4eb6c-dfdb-4b39-bfaf-67cb83a6a774" width="40" height="30"> | C.L. Inter College Chhittepatti Sultanpur | UP Board | 2018-2019 | 76.67 % |
+| HighSchool | <img src="https://github.com/" width="40" height="30"> | C.L. Inter College Chhittepatti Sultanpur | UP Board | 2018-2019 | 76.67 % |
 <!-- END_SECTION:blog -->
 </td>
 </tr>
@@ -53,12 +53,12 @@ const Juhi_Pathak= {
 <br>
 
 <p align="left"> 
-  <a href="https://leetcode.com/u/pathakjuhi/" target="_blank"> <img alt="LeetCode" width="125" src="https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=d16c06"/> </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.codechef.com/users/juhi_pathak" target="_blank">  <img alt="CodeChef" width="125" src="https://img.shields.io/badge/CodeChef-%23964B00.svg?logo=CodeChef&logoColor=white"></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.hackerrank.com/profile/pathakkakul" target="_blank">  <img alt="HackerRank" width="125" src="https://img.shields.io/badge/HackerRank-2EC866?logo=HackerRank&logoColor=white"/> </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://codeforces.com/profile/juhipathak" target="_blank"> <img alt="Codeforces" width="125" src="https://img.shields.io/badge/Codeforces-445f9d?logo=Codeforces&logoColor=white"> </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.hackerearth.com/@pathakkakul" target="_blank"> <img alt="HackerEarth" width="125" src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?logo=HackerEarth&logoColor=blue"/></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.naukri.com/code360/profile/juhipathak" target="_blank"> <img alt="HackerEarth" width="125" src="https://img.shields.io/badge/CodingNinjas-%232C3454.svg?logo=CodingNinjas&logoColor=orange"/></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://leetcode.com/u//" target="_blank"> <img alt="LeetCode" width="125" src="https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=d16c06"/> </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.codechef.com/users/" target="_blank">  <img alt="CodeChef" width="125" src="https://img.shields.io/badge/CodeChef-%23964B00.svg?logo=CodeChef&logoColor=white"></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.hackerrank.com/profile/" target="_blank">  <img alt="HackerRank" width="125" src="https://img.shields.io/badge/HackerRank-2EC866?logo=HackerRank&logoColor=white"/> </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://codeforces.com/profile/" target="_blank"> <img alt="Codeforces" width="125" src="https://img.shields.io/badge/Codeforces-445f9d?logo=Codeforces&logoColor=white"> </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.hackerearth.com/" target="_blank"> <img alt="HackerEarth" width="125" src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?logo=HackerEarth&logoColor=blue"/></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.naukri.com/code360/profile/" target="_blank"> <img alt="HackerEarth" width="125" src="https://img.shields.io/badge/CodingNinjas-%232C3454.svg?logo=CodingNinjas&logoColor=orange"/></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 -------------------
@@ -137,18 +137,7 @@ const Juhi_Pathak= {
 ### ♾️ DevOps
 
 <p align="left"> 
-  <a href="https://www.docker.com/" target="_blank"> 
-   <img alt="Docker" src="https://img.shields.io/badge/Docker-%230db7ed.svg?logo=docker&logoColor=white">
-  </a>   
   
-  <a href="https://kubernetes.io/" target="_blank">
-    <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-%23326ce5.svg?logo=kubernetes&logoColor=white">
-  </a> 
-  
- <a href="https://bitbucket.org/" target="_blank"> 
-    <img alt="Bitbucket" src="https://img.shields.io/badge/Bitbucket-%230047B3.svg?logo=bitbucket&logoColor=white"/>
-  </a>
-
  <a href="https://git-scm.com/" target="_blank"> 
     <img alt="Git" src="https://img.shields.io/badge/Git-%23F05033.svg?logo=git&logoColor=white"/>
   </a>
@@ -176,38 +165,28 @@ const Juhi_Pathak= {
    <a href="https://www.sqlite.org/" target="_blank"> 
    <img alt="SQLite" src="https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white">
   </a>   
-  <a href="https://aws.amazon.com/dynamodb/" target="_blank">
-    <img alt="Amazon DynamoDB" src="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?logo=Amazon%20DynamoDB&logoColor=white">
-  </a> 
-  
- <a href="https://www.microsoft.com/en-us/sql-server/" target="_blank"> 
-    <img alt="Microsoft SQL Server" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?logo=microsoft%20sql%20server&logoColor=white"/>
-  </a>
-
- <a href="https://firebase.google.com/" target="_blank"> 
-    <img alt="Firebase" src="https://img.shields.io/badge/Firebase-%23FFCA28.svg?logo=Firebase&logoColor=white"/>
-  </a>
+ 
   
 </p>
 
 ### 🎛️ Operating Systems
 
 <p align="left"> 
-  <a href="https://www.centos.org/" target="_blank"> 
+<!--   <a href="https://www.centos.org/" target="_blank"> 
    <img alt="CentOS" src="https://img.shields.io/badge/CentOS-002260?logo=centos&logoColor=F0F0F0">
-  </a>   
+  </a>    -->
   
-  <a href="https://www.debian.org/" target="_blank">
+<!--  <a href="https://www.debian.org/" target="_blank">
     <img alt="Debian" src="https://img.shields.io/badge/Debian-D70A53?logo=debian&logoColor=white">
-  </a> 
+  </a>  -->
   
- <a href="https://www.kali.org/" target="_blank"> 
+<!-- <a href="https://www.kali.org/" target="_blank"> 
     <img alt="Kali Linux" src="https://img.shields.io/badge/Kali%20Linux-268BEE?logo=kalilinux&logoColor=white"/>
-  </a>
+  </a> -->
   
-  <a href="https://www.linux.org/" target="_blank"> 
+<!--  <a href="https://www.linux.org/" target="_blank"> 
     <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black"/>
-  </a>
+  </a> -->
 
  <a href="https://ubuntu.com/" target="_blank"> 
     <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white"/>
