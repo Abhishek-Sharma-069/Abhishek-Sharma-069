@@ -5,7 +5,7 @@
 
 <img align="right" alt="coding" width="500" src="https://github.com/JuhiPathak23/JuhiPathak23/assets/73741643/684bf8fe-e293-4001-a8bd-9e5e43925898">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=juhipathak23&label=Profile%20views&color=0e75b6&style=flat" alt="juhipathak23" width="150"/> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Abhishek-Sharma-069&label=Profile%20views&color=0e75b6&style=flat" alt="Abhishek-Sharma-069" width="150"/> </p>
 
 -  Contributor at GirlScript Summer Of Code, 2024 Extended!
 
