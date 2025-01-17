@@ -7,18 +7,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juhipathak23&label=Profile%20views&color=0e75b6&style=flat" alt="juhipathak23" width="150"/> </p>
 
--  Contributor at GirlScript Summer Of Code, 2024!
+-  Contributor at GirlScript Summer Of Code, 2024 Extended!
 
-- 🌱 I am currently learning: **AI & ML, GCP, AWS, GoLang**
+- 🌱 I am currently learning: ** **
 
-- 📝 I write articles here: <a href="https://medium.com/@juhipathak23](https://medium.com/@juhipathak23">Medium</a>
+- 💬 Ask me about: **Full Stack Development, Frontend Development, Backend Development**
 
-- 💬 Ask me about: **Full Stack Development, Graphic Designing, Literature & Poetry (Songwriting too), Music**
-
-- 📫 Reach out to me: **pathakkakul@gmail.com** (@thelone.artist)
-
-- ⚡ Fun fact: **I am a Harry Potter fanatic! Expecto Patronum⚡!**
-
+- 📫 Reach out to me: **abhello12@gmail.com** (@thelone.boy)
+- 
 -----------------------
 ## <img src="https://cdn-icons-png.flaticon.com/512/5969/5969702.png" width="25">  <b>A little bit about myself :)</b>
 
