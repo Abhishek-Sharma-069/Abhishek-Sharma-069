@@ -255,13 +255,13 @@ const Abhishek_Sharma= {
 
 
 <p align="center">
-  <img align="left" width="400" src="https://github-readme-stats.vercel.app/api?username=Abhishek-Sharma&show_icons=true&locale=en&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="abhishek sharma" />
-  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhishek-Sharma&theme=blueberry&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="370"/>
+  <img align="left" width="400" src="https://github-readme-stats.vercel.app/api?username=Abhishek-Sharma-069&show_icons=true&locale=en&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="abhishek sharma" />
+  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhishek-Sharma-069&theme=blueberry&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="370"/>
 </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <p align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abhishek-Sharma&theme=tokyonight&hide_border=true" align="left" width="450" alt="Abhishek Sharma"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Abhishek-Sharma&show_icons=true&locale=en&layout=compact&theme=tokyonight" align="center" width="300"  alt="Abhishek Sharma"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abhishek-Sharma-069&theme=tokyonight&hide_border=true" align="left" width="450" alt="Abhishek Sharma"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Abhishek-Sharma-069&show_icons=true&locale=en&layout=compact&theme=tokyonight" align="center" width="300"  alt="Abhishek Sharma"/>
 </p>
 
 ----------------------
