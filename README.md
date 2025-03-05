@@ -268,4 +268,4 @@ const Abhishek_Sharma= {
 
 ## <img src="https://cdn.pixabay.com/photo/2020/10/14/20/31/hands-5655424_1280.png" width="25"> <b>Support :)</b>
 
-<p><a href="https://www.buymeacoffee.com/juhipathak"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="150" alt="juhipathak" /></a><a href="https://ko-fi.com/juhipathak"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="40" width="150" alt="juhipathak" /></a></p><br><br>
+<p> <img src = "" > </p><br><br>
