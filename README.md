@@ -253,7 +253,6 @@ const Abhishek_Sharma= {
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Github Stats</b>
 
-
 <p align="center">
   <img align="left" width="400" src="https://github-readme-stats.vercel.app/api?username=Abhishek-Sharma-069&show_icons=true&locale=en&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="abhishek sharma" />
   <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhishek-Sharma-069&theme=blueberry&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="370"/>
@@ -268,4 +267,4 @@ const Abhishek_Sharma= {
 
 ## <img src="https://cdn.pixabay.com/photo/2020/10/14/20/31/hands-5655424_1280.png" width="25"> <b>Support :)</b>
 
-<p align="center"> <img src = "https://github.com/Abhishek-Sharma-069/Abhishek-Sharma/blob/main/src/PaymentQR.jpg" width='100'> </p><br><br>
+<p align="center"> <img src = "https://github.com/Abhishek-Sharma-069/Abhishek-Sharma/blob/main/src/PaymentQR.jpg" width='100'> </p>
