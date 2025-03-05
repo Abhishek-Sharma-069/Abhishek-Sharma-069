@@ -241,10 +241,10 @@ const Abhishek_Sharma= {
 <div align="center">
 <table border="0">
   <tr>
-    <td> <a href="https://linkedin.com/in/" target="_blank">  <img src="https://img.shields.io/badge/LinkedIn-Juhi Pathak-%23FC5531?style=for-the-badge"> </a> </td>
-    <td> <a href="https://twitter.com/" target="_blank"> <img src="https://img.shields.io/badge/Twitter-The_LoneArtist-%23FC5531?style=for-the-badge""> </a> </td>
-    <td> <a href="https://discord.gg/" target="_blank">  <img src="https://img.shields.io/badge/Discord-TheLoneArtist-%23FC5531?style=for-the-badge"> </a> </td>
-    <td> <a href="https://medium.com/" target="_blank">  <img src="https://img.shields.io/badge/Medium-Pathakkakul-%23FC5531?style=for-the-badge"> </a> </td>
+    <td> <a href="https://www.linkedin.com/in/abhishek-sharma-069-i/" target="_blank">  <img src="https://img.shields.io/badge/LinkedIn-Abhishek Sharma-%23FC5531?style=for-the-badge"> </a> </td>
+    <td> <a href="https://x.com/AbhishekShar069" target="_blank"> <img src="https://img.shields.io/badge/Twitter-Abhishek Sharma-%23FC5531?style=for-the-badge""> </a> </td>
+    <td> <a href="https://discord.com/@abhisheksharma069" target="_blank">  <img src="https://img.shields.io/badge/Discord-Abhishek Sharma-%23FC5531?style=for-the-badge"> </a> </td>
+    <td> <a href="https://medium.com/" target="_blank">  <img src="https://img.shields.io/badge/Medium-Abhishek Sharma-%23FC5531?style=for-the-badge"> </a> </td>
     </tr>
 </table>
 </div>
