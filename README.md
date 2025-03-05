@@ -40,7 +40,7 @@ const Abhishek_Sharma= {
 <!-- START_SECTION:blog -->
 | Qualification | Studied At | Institute | Affiliated By | Year of Study | Percentage |
 | :-: | :---: | :----: | :--: | :--: | :--: |
-| B.Tech CSE | <img src="https://github.com/" width="40" height="30"> | United Institute of Technology | AKTU | Nov 2022-Present | 8 CGPA |
+| B.Tech CSE | <img src="https://github.com/" width="40" height="30"> | United Institute of Technology Prayagraj | AKTU | Nov 2022-Present | 8 CGPA |
 | Intermediate | <img src="https://github.com/" width="40" height="30"> | C.L. Inter College Chhittepatti Sultanpur | CBSE | 2020-2021 | 79.17 % |
 | HighSchool | <img src="https://github.com/" width="40" height="30"> | C.L. Inter College Chhittepatti Sultanpur | UP Board | 2018-2019 | 76.67 % |
 <!-- END_SECTION:blog -->
