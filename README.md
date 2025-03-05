@@ -20,7 +20,7 @@
 
 ```javascript
 const Abhishek_Sharma= {
-  pronouns: "She" | "Her",
+  pronouns: "He" | "Him",
   code: ["C++", "Python", "Java", "Javascript", "HTML", "CSS", "MySQL"],
   askMeAbout: ["Web Dev", "Frontend Dev","Backend Dev", "Python", "Java"],
   technologies: {
