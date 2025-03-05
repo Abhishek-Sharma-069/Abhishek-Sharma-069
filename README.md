@@ -243,7 +243,7 @@ const Abhishek_Sharma= {
   <tr>
     <td> <a href="https://www.linkedin.com/in/abhishek-sharma-069-i/" target="_blank">  <img src="https://img.shields.io/badge/LinkedIn-Abhishek Sharma-%23FC5531?style=for-the-badge"> </a> </td>
     <td> <a href="https://x.com/AbhishekShar069" target="_blank"> <img src="https://img.shields.io/badge/Twitter-Abhishek Sharma-%23FC5531?style=for-the-badge""> </a> </td>
-    <td> <a href="https://discord.com/@abhisheksharma069" target="_blank">  <img src="https://img.shields.io/badge/Discord-Abhishek Sharma-%23FC5531?style=for-the-badge"> </a> </td>
+    <td> <a href="https://discord.com/users/abhisheksharma069" target="_blank">  <img src="https://img.shields.io/badge/Discord-Abhishek Sharma-%23FC5531?style=for-the-badge"> </a> </td>
     <td> <a href="https://medium.com/" target="_blank">  <img src="https://img.shields.io/badge/Medium-Abhishek Sharma-%23FC5531?style=for-the-badge"> </a> </td>
     </tr>
 </table>
