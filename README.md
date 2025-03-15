@@ -267,4 +267,4 @@ const Abhishek_Sharma= {
 
 ## <img src="https://cdn.pixabay.com/photo/2020/10/14/20/31/hands-5655424_1280.png" width="25"> <b>Support :)</b>
 
-<p align="center"> <img src = "https://github.com/Abhishek-Sharma-069/Abhishek-Sharma/blob/main/src/PaymentQR.jpg" width='100'> </p>
+<p align="center">  </p>
