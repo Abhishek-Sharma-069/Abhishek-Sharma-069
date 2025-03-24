@@ -267,4 +267,4 @@ const Abhishek_Sharma= {
 
 ## <img src="https://cdn.pixabay.com/photo/2020/10/14/20/31/hands-5655424_1280.png" width="25"> <b>Support :)</b>
 
-<p align="center">  </p>
+<p align="center"> I’d love your support! If you find my work valuable, you can help by referring me for **internships**, **job opportunities**, or **collaborations**. If you have an exciting project, I’d be thrilled to contribute—let’s build something amazing together! 🚀 </p>
